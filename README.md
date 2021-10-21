@@ -7,11 +7,6 @@
 - Ruby v2.6.5
 - Ruby on Rails v5.2.4
 
-## Live Demo
-
-https://floating-garden-84081.herokuapp.com
-
-
 ## Getting Started
 
 To get a local copy up and running follow these simple example steps.
